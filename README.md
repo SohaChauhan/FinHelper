@@ -10,6 +10,10 @@ FinHelper is a modern, user-friendly Cost-Volume-Profit (CVP) analysis tool desi
 - **Export:** Download your analysis as CSV or PDF for sharing or record-keeping.
 - **Modern UI:** Responsive, accessible, and easy to use on any device.
 
+## Live Demo
+
+Access the live app here: [https://finhelper.vercel.app](https://finhelper.vercel.app)
+
 ## How to Use
 
 1. **Add Products:** Use the Product Management section to add products and enter details like name, units sold, selling price, variable cost, and fixed cost.
@@ -32,36 +36,3 @@ FinHelper is a modern, user-friendly Cost-Volume-Profit (CVP) analysis tool desi
 - [Tailwind CSS](https://tailwindcss.com/) for styling
 - [Chart.js](https://www.chartjs.org/) (via [react-chartjs-2](https://react-chartjs-2.js.org/)) for charts
 - [jsPDF](https://github.com/parallax/jsPDF) and [PapaParse](https://www.papaparse.com/) for exports
-
-## Setup Instructions
-
-1. **Clone the repo:**
-
-   ```bash
-   git clone <repo-url>
-   cd cma-assignment
-   ```
-
-2. **Install dependencies:**
-
-   ```bash
-   npm install
-   # or
-   yarn install
-   ```
-
-3. **Run the development server:**
-
-   ```bash
-   npm run dev
-   # or
-   yarn dev
-   ```
-
-4. **Open [http://localhost:3000](http://localhost:3000) in your browser.**
-
-## Credits
-
-- Developed by Soha Chauhan
-- Inspired by business and educational needs for simple, accessible CVP analysis
-- Open source and extensible for further financial analysis
